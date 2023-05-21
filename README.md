@@ -5,7 +5,7 @@
 <br />
 
 ```sh
-git clone
+git clone https://github.com/bernardojru/nlw-spacetime.git
 ```
 
 ```sh
